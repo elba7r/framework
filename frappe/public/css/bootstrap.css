@@ -1089,7 +1089,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #3636FF;
+  color: #15008F;
   text-decoration: none;
 }
 a:hover,
@@ -1274,7 +1274,7 @@ h5,
 }
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 16px;
 }
 p {
   margin: 0 0 10px;
@@ -4372,8 +4372,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #4f4f4f;
-  border-color: #ebeff2;
+  background-color: #bfdbff;
+/*  border-color: #ebeff2;*/
+background: linear-gradient(#A7CCFA,#bfdbff);
 }
 .navbar-default .navbar-brand {
   color: #6c7680;
